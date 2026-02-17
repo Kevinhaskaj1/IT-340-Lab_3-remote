@@ -1,0 +1,31 @@
+commit 275cc5b796ce160bb994181f4e58d8407000ac08
+Author: Kevin Haskaj <krh42@njit.edu>
+Date:   Mon Feb 16 19:42:47 2026 -0500
+
+    Revert "Added temp file"
+    
+    This reverts commit 19348842b24757d871d9f2642fb81f46c8d203df.
+
+commit 19348842b24757d871d9f2642fb81f46c8d203df
+Author: Kevin Haskaj <krh42@njit.edu>
+Date:   Mon Feb 16 19:41:35 2026 -0500
+
+    Added temp file
+
+commit 006d790891d1050bb77d2dca91d1bbe63c2ea8d5
+Author: Kevin Haskaj <krh42@njit.edu>
+Date:   Mon Feb 16 19:41:20 2026 -0500
+
+    Edited hostname file
+
+commit c48bf66147007cb08bc6688461b146df0aec98ed
+Author: Kevin Haskaj <krh42@njit.edu>
+Date:   Mon Feb 16 19:22:22 2026 -0500
+
+    Updated os-release with custom message
+
+commit 7b121e796e903d8629177de40cd8a1d902b7d4e4
+Author: Kevin Haskaj <krh42@njit.edu>
+Date:   Mon Feb 16 19:17:05 2026 -0500
+
+    Initial commit
